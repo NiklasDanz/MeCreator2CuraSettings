@@ -9,7 +9,7 @@ This guide will show you how to setup your Geeetech MeCreator 2 in Cura. There a
 3. A window will open, showing you a list of printers to choose from. In the "Custom"-Tab select "Custom FDM printer".
 4. Then at the bottom left corner change the name to "MeCreator2" (or anything you desire), then click "Add printer".
 5. A window will open. Fill out the form fields according to the following image:
-IMAGE
+![Cura setup for MC2](https://raw.githubusercontent.com/NiklasDanz/MeCreator2CuraSettings/master/mc2curasettings.jpg)
 6. Hit "Finish" and you're done!
 
 ## 2) Copying my MeCreator2 .cfg-File into your Cura settings folder
